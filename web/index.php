@@ -3,7 +3,7 @@
         <!-- google font -->
         <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
         <!-- css -->
-        <link type='text/css' rel='stylesheet' href='rhp.css'>
+        <link type='text/css' rel='stylesheet' href='timestamp.css'>
         <!-- jquery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
         <!-- js -->
