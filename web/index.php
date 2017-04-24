@@ -19,8 +19,8 @@
                 <h3>it's used in many unix like operating systems, it helps to track and sort dated information</h3>
                 <h3>what is this page for? it converts unix timestamps into dates, and vice versa</h3>
                 <h3>just put what you need to convert into the url</h3>
-                <h3>for a natural date - <span>https://ide.c9.io/nugoose/request_headad_parsah/april 19 2017</span></h3>
-                <h3>for a unix timestamp - <span>https://ide.c9.io/nugoose/request_headad_parsah/1321009871</span></h3>
+                <h3>for a natural date - <span>https://stormy-eyrie-43498.herokuapp.com/april 19 2017</span></h3>
+                <h3>for a unix timestamp - <span>https://stormy-eyrie-43498.herokuapp.com/1321009871</span></h3>
                 
             <h2>made with php, hosted on heroku <3</h2>
         </div>
